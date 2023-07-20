@@ -1,16 +1,18 @@
-### Hi there 👋
+<table>
+  <thead>
+    <tr>
+      <td align="center">
+        <span><strong>Programming Languages & Frameworks</strong></span>
+      </td>
+    </tr>
+  </thead>
 
-<!--
-**1228s35902/1228s35902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <tbody>
+    <tr>
+      <td align="center">
+        <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
+      </td>
+    </tr>
+  </tbody>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</table>
